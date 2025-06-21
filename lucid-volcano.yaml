@@ -1,0 +1,32 @@
+name: Lucid Volcano
+accent:
+  top: '#ca2363'
+  bottom: '#f20d63'
+cursor: '#891fff'
+background:
+  top: '#181B28'
+  bottom: '#22253a'
+foreground: '#ffffff'
+details: darker
+background_image:
+  path: wallpaper.jpg
+  opacity: 15
+terminal_colors:
+  bright:
+    black: '#ffffff'
+    blue: '#891fff'
+    cyan: '#f20d63'
+    green: '#f20d63'
+    magenta: '#891fff'
+    red: '#ffffff'
+    white: '#ffffff'
+    yellow: '#ffffff'
+  normal:
+    black: '#181B28'
+    blue: '#f20d63'
+    cyan: '#f20d63'
+    green: '#f20d63'
+    magenta: '#891fff'
+    red: '#f20d63'
+    white: '#f20d63'
+    yellow: '#ffffff'
